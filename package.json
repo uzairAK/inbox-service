@@ -1,0 +1,19 @@
+{
+  "name": "inbox_service",
+  "version": "1.0.0",
+  "description": "Flexible centralized inbox service developed by Uzair Aezad",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uzair Aezad Khan",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.1",
+    "axios": "^0.22.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "memcached": "^2.2.2",
+    "mongoose": "^6.0.8"
+  }
+}
